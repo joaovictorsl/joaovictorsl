@@ -27,8 +27,10 @@ Langs:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="20"/>
 
+
 <a href="https://ibb.co/HYVMMbY"><img height="300px" align="left" src="https://i.ibb.co/QnfqqTn/Bear-market-cuate.png" alt="Bear-market-cuate" border="0"></a>
 
 
-<h3 align="right"> 📈 Some statistics </h3>
-<img align ="right" src="https://github-readme-stats.vercel.app/api?username=joaovictorsl&count_private=true&show_icons=true&theme=nightowl" height="160px" />
+<h2 align="center"> 📈 Github statistics </h3>
+<img align ="right" width="64%" src="https://github-readme-stats.vercel.app/api?username=joaovictorsl&count_private=true&show_icons=true&theme=nightowl" height="170px" />
+
