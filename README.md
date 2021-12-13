@@ -1,6 +1,6 @@
 ## Hello, there! 👋🏽
 
-<a href="https://ibb.co/4SMnQJq"><img height="350px" src="https://i.ibb.co/QHn35Xg/Innovation-amico.png" alt="Innovation-amico" border="0" align="right"></a>
+<a href="https://ibb.co/4SMnQJq"><img height="300px" src="https://i.ibb.co/QHn35Xg/Innovation-amico.png" alt="Innovation-amico" border="0" align="right"></a>
 
 ### ☂️ About me 
 
