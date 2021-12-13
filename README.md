@@ -28,9 +28,9 @@ Langs:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="20"/>
 
 
-<a href="https://ibb.co/HYVMMbY"><img height="300px" align="left" src="https://i.ibb.co/QnfqqTn/Bear-market-cuate.png" alt="Bear-market-cuate" border="0"></a>
-
-
 <h2 align="center"> 📈 Github statistics </h3>
-<img align ="right" width="64%" src="https://github-readme-stats.vercel.app/api?username=joaovictorsl&count_private=true&show_icons=true&theme=nightowl" height="170px" />
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=joaovictorsl&show_icons=true&theme=nightowl">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorsl&layout=compact&theme=nightowl">
+</div>
 
