@@ -4,7 +4,7 @@
 
 ### ☂️ About me 
 
-<p align="justify">I'm an undergraduate Computer Science student at Campina Grande's Federal University, Software Developer, Data Scientist and Tech Enthusiast. I'm currently enrolled in a Data Science Training Program provided by <a href="https://www.letscode.com.br/" target="_blank">Let's Code</a> in partneship with Santander and a technologist course in the same field at Uninter.</p>
+<p align="justify">I'm an undergraduate Computer Science student at Campina Grande's Federal University. I'm mainly interested in software development and data science.</p>
 
 ### ⚛️ Skills  
 
@@ -18,14 +18,11 @@ Back-end Dev:
 Front-end Dev: 
 <img width ='20px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg' alt="ReactJS">
 <img width ='20px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg' alt="NextJS">
-<img width ='20px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg' alt="Flutter">
 
 Langs:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript" width="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="20"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="20"/>
 
 
 <h2 align="center"> 📈 Github statistics </h3>
@@ -34,3 +31,6 @@ Langs:
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorsl&layout=compact&theme=nightowl">
 </div>
 
+<h2 align="center"> Badges 😎 </h3>
+
+[![@joaovictorsl's Holopin board](https://holopin.me/joaovictorsl)](https://holopin.io/@joaovictorsl)
