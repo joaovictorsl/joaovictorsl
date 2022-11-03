@@ -1,3 +1,4 @@
+##
 ## Hello, there! 👋🏽
 
 <a href="https://ibb.co/4SMnQJq"><img height="300px" src="https://i.ibb.co/QHn35Xg/Innovation-amico.png" alt="Innovation-amico" border="0" align="right"></a>
@@ -24,6 +25,7 @@ Langs:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="20"/>
 
+<h2 align="center"></h3>
 
 <h2 align="center"> 📈 Github statistics </h3>
 <div align="center">
@@ -31,6 +33,7 @@ Langs:
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorsl&layout=compact&theme=nightowl">
 </div>
 
+<h2 align="center"></h3>
 <h2 align="center"> Badges 😎 </h3>
 
 [![@joaovictorsl's Holopin board](https://holopin.me/joaovictorsl)](https://holopin.io/@joaovictorsl)
