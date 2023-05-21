@@ -31,13 +31,16 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 # 📊 GitHub Stats:
-<p align='center'>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaovictorsl&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorsl&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
-       width="35%"/>
+<div align='center'>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaovictorsl&theme=tokyonight&hide_border=true"
+     height='285.5em'/></br>
   <img src="https://github-readme-stats.vercel.app/api?username=joaovictorsl&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"
-       width="84.5%"/>
-</p>
+       height='175em'/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorsl&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
+       height='175em'/>
+</div>
+
+
 
 ## 🏆 GitHub Trophies
 <p align="center">
