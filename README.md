@@ -1,40 +1,60 @@
-## Hello, there! 👋🏽
+# 💫 About Me:
+📚 Computer Science undergraduate @ UFCG<br>
+🔭 I’m currently working on the NuFuturo project, PD&I collaboration project between UFCG and Nubank<br>
+🌱 Learning Rust 🦀<br>
+⚡ I love playing video games (mainly minecraft) and practicing sports
 
-<a href="https://ibb.co/4SMnQJq"><img height="250px" src="https://i.ibb.co/QHn35Xg/Innovation-amico.png" alt="Innovation-amico" border="0" align="right"></a>
 
-### ☂️ About me 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joaovictorsl) 
 
-<p align="justify">I'm an undergraduate Computer Science student at Campina Grande's Federal University. I'm mainly interested in software development and data science.</p>
+# 💻 Tech Stack:
+![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=flat&logo=Clojure&logoColor=Clojure)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) 
 
-## Backend
-<p>
-  <img src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg' alt="NodeJS" width=50>
-  <img src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg' alt="MongoDB" width=50> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width=50/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width=50/>
-  <img src="https://i.ibb.co/wLyRHHD/pngegg.png" alt="Ruby On Rails" border="0" width=50>
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white)
+
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+<p align='center'>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaovictorsl&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorsl&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
+       width="35%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=joaovictorsl&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"
+       width="84.5%"/>
 </p>
 
-## Frontend
-<p>
-  <img src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg' alt="ReactJS" width=50>
-  <img src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg' alt="NextJS" width=50>
-</p>
-  
-## Languages
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50"/>
+## 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/joaovictorsl">
+    <img src="https://github-profile-trophy.vercel.app/?username=joaovictorsl&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4"/>
+  </a>
 </p>
 
-<h2 align="center"> 📈 Github statistics </h3>
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=joaovictorsl&show_icons=true&theme=nightowl">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorsl&layout=compact&theme=nightowl">
-</div>
-
-
-<h2 align="center"> Badges 😎 </h3>
+<h2 align="center"> Badges 😎 </h2>
 
 [![@joaovictorsl's Holopin board](https://holopin.me/joaovictorsl)](https://holopin.io/@joaovictorsl)
+
+---
+<p align="center">
+  <a href="https://github.com/joaovictorsl">
+    <img src="https://visitcount.itsvg.in/api?id=joaovictorsl&icon=0&color=1"/>
+  </a>
+</p>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
