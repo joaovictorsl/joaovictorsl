@@ -1,6 +1,6 @@
 # 💫 About Me:
 📚 Computer Science undergraduate @ UFCG<br>
-🔭 I’m currently working on the NuFuturo project, PD&I collaboration project between UFCG and Nubank<br>
+🔭 I’m currently working on NuFuturo, PD&I collaboration project between UFCG and Nubank<br>
 🌱 Learning Rust 🦀<br>
 ⚡ I love playing video games (mainly minecraft) and practicing sports
 
